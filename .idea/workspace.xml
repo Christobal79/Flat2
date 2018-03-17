@@ -14,6 +14,7 @@
       <file leaf-file-name="ext_emconf.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ext_emconf.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="210">
               <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding />
@@ -26,6 +27,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+            <state relative-caret-position="480">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+>>>>>>> parent of 077b7cb... bbb
               <folding />
             </state>
           </provider>
@@ -128,12 +133,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521323419006</updated>
+<<<<<<< HEAD
       <workItem from="1521323420289" duration="339000" />
+=======
+      <workItem from="1521323420289" duration="28000" />
+>>>>>>> parent of 077b7cb... bbb
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="339000" />
+=======
+    <option name="totallyTimeSpent" value="28000" />
+>>>>>>> parent of 077b7cb... bbb
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="23" width="1853" height="1109" extended-state="1" />
@@ -179,6 +192,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ext_emconf.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="210">
           <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding />
@@ -189,6 +203,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="480">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+>>>>>>> parent of 077b7cb... bbb
           <folding />
         </state>
       </provider>
