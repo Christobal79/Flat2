@@ -32,12 +32,17 @@ $EM_CONF[$_EXTKEY] = [
             'ot_collapse' => '8.7.0-7.9.99',
             'ot_divider' => '8.8.0-7.9.99'
             1.
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
             2.
             3.
 >>>>>>> parent of 077b7cb... bbb
+=======
+            2.
+            
+>>>>>>> parent of 9d0eda1... ccc
 
         ],
     ],
